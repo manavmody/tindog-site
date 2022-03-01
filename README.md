@@ -1,4 +1,4 @@
-##Tindog Site.
+Tindog Site.
 
 This website was made using Bootsrap and pure intermediate CSS.
 
