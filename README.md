@@ -6,4 +6,4 @@ The website has a carousel mode and all the positioning was done using CSS divs 
 
 The navbar has three sections which takes us to the respective parts of page when you click on them.
 
-You can visit the website on: 
+You can visit the website on: https://manavmody.github.io/tindog-site/
